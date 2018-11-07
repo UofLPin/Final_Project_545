@@ -8,5 +8,6 @@ namespace Final_Project_545
 {
     public struct Block
     {
+        public bool? center;
     }
 }
